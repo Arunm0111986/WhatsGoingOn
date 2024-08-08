@@ -1,6 +1,6 @@
 # WhatsGoingOn
 
-Inspired by [this script](https://gist.githubusercontent.com/LoranKloeze/e1cf5bb9f797b6128363d467d008ff0e/raw/e9ec7ab1546766a11fd9fbd889eefe5b30132012/whatsapp_phone_enumerator_floated_div.js)
+Inspired by [arunm0111script](https://gist.githubusercontent.com/LoranKloeze/e1cf5bb9f797b6128363d467d008ff0e/raw/e9ec7ab1546766a11fd9fbd889eefe5b30132012/whatsapp_phone_enumerator_floated_div.js)
 which you can read more about in the blog post [Collecting huge amounts of data with WhatsApp](https://www.lorankloeze.nl/2017/05/07/collecting-huge-amounts-of-data-with-whatsapp/).
 
 ### WhatsGoingOn is a script to try to figure out whether 2 people have been chatting to each other on WhatsApp.
